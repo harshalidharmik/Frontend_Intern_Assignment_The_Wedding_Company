@@ -13,12 +13,12 @@ This UI was developed as part of **The Wedding Company Frontend Intern Assignmen
 
 ## Table of Contents
 
-- [Overview](#-overview)
-- [Set-Up Instructions](#-set-up-instructions)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Assumptions Made](#-assumptions-made)
-- [Time Spent on the Assignment](#-time-spent-on-the-assignment)
+- [Overview](#overview)
+- [Set-Up Instructions](#set-up-instructions)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Assumptions Made](#assumptions-made)
+- [Time Spent on the Assignment](#time-spent-on-the-assignment)
 ---
 
 ## Overview
@@ -32,15 +32,19 @@ A unique touch is added with a **cute paw animation** shown only on the first qu
 
 ## Set-Up Instructions
 1. Clone the repository
+
 -> git clone https://github.com/harshalidharmik/Frontend_Intern_Assignment_The_Wedding_Company.git
 
 2. Navigate to the Project Directory
+
 -> cd Frontend_Intern_Assignment_The_Wedding_Company
 
 3. Install Dependencies
+
 -> npm install
 
 4. Start the Development Server
+
 -> npm start
 
 ---
@@ -48,36 +52,36 @@ A unique touch is added with a **cute paw animation** shown only on the first qu
 ## Features
 
 ### **Clean, Modern UI**
-- Elegant gradients and soft shadows  
-- Smooth rounded card design  
-- High-quality fonts imported from Google Fonts  
+- Elegant gradients and soft shadows.  
+- Smooth rounded card design.
+- High-quality fonts imported from Google Fonts.  
 
 ### **Progress Indicators**
-- Horizontal progress pills  
-- Current question highlighted  
-- Smooth transitions  
+- Horizontal progress pills.
+- Current question highlighted.  
+- Smooth transitions.
 
 ### **Interactive Question Flow**
-- Previous/Next navigation  
-- Arrow-key support (Left/Right)  
-- Selected options appear visually distinct  
-- Animated hover effects  
+- Previous/Next navigation.  
+- Arrow-key support (Left/Right).  
+- Selected options appear visually distinct.  
+- Animated hover effects.
 
 ### **Final Score Screen**
-- Full-screen minimal layout  
-- Animated counting from **0 → final percentage**  
-- Clean typography (Playfair Display)  
-- “Start Again” button  
+- Full-screen minimal layout.
+- Animated counting from **0 → final percentage**.
+- Clean typography (Playfair Display).
+- “Start Again” button.
 
 ### **Paw Mascot Animation**
-- Appears **only on the first screen**  
-- Bouncing paw + speech bubble  
-- Custom SVG illustration  
-- Layered shadow + subtle motions  
+- Appears **only on the first screen**.
+- Bouncing paw + speech bubble.
+- Custom SVG illustration.
+- Layered shadow + subtle motions.  
 
 ### **Fully Responsive**
-- Looks great on desktop, tablet, and mobile  
-- Scales typography & layout gracefully  
+- Looks great on desktop, tablet, and mobile.
+- Scales typography & layout gracefully.
 
 ---
 
