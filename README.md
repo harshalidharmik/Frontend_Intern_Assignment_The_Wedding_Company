@@ -5,10 +5,9 @@ This app was developed as part of **The Wedding Company Assignment**.
 
 ---
 
-## 🚀 Live Demo (Optional)
-_Add your deployed link once hosted:_
+## 🚀 Live Demo
 
-👉 **https://your-demo-link-here.com**
+👉 **https://frontend-intern-assignment-gamma.vercel.app/**
 
 ---
 
@@ -79,7 +78,6 @@ A unique touch is added with a **cute paw animation** shown only on the first qu
 - **JavaScript (ES6+)**  
 - **Tailwind CSS** – Utility-first styling  
 - **CSS Keyframe Animations** – Paw motion, hover effects  
-- **Framer Motion** – Smooth page transitions  
-- **Create React App** – (or Vite, depending on your setup)  
+- **Framer Motion** – Smooth page transitions
 
 ---
